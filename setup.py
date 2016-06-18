@@ -12,7 +12,7 @@ REQUIREMENTS = [
     'pytz',
     'tabulate',
     'termcolor',
-    'yaml',
+    'PyYAML',
 ]
 
 setup(
