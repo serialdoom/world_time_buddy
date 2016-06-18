@@ -5,6 +5,15 @@ World Time Buddy
 Display timezones and times
 
 
+Installation
+------------
+
+Install with
+
+```
+pip install https://github.com/serialdoom/world_time_buddy
+```
+
 Sample Configuration file
 -------------------------
 
