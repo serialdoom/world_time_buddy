@@ -9,7 +9,7 @@ from setuptools import setup
 from world_time_buddy import get_version
 
 REQUIREMENTS = [
-    'putz',
+    'pytz',
     'tabulate',
     'termcolor',
     'yaml',
