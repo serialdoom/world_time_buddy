@@ -6,7 +6,6 @@ setup.py
 """
 
 from setuptools import setup
-from world_time_buddy import get_version
 
 REQUIREMENTS = [
     'pytz',
@@ -17,7 +16,7 @@ REQUIREMENTS = [
 
 setup(
     name='world_time_buddy',
-    version=get_version(),
+    version='0.1.0',
     description="Display timezones and times",
     author="Mike Christof",
     author_email='mhristof@gmail.com',
