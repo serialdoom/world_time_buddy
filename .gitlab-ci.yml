@@ -1,0 +1,5 @@
+test:
+  script:
+    - make install
+    - make test
+    - flake8 .
