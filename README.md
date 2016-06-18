@@ -11,7 +11,7 @@ Installation
 Install with
 
 ```
-pip install https://github.com/serialdoom/world_time_buddy
+pip install https://github.com/serialdoom/world_time_buddy/archive/master.zip
 ```
 
 Sample Configuration file
